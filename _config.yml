@@ -6,7 +6,8 @@
 title: Leonids
 email: zourenyuan@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: http://renyuanz.github.io/leonids # the base hostname & protocol for your site
+url: "http://indianpanther.com/explore" # the base hostname & protocol for your site
+baseurl: "/explore/"
 
 
 #
